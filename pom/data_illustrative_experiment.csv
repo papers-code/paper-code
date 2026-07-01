@@ -1,0 +1,6 @@
+scenario,local_rmse,avg_residual_cov,aggregate_volatility,capacity_tail_prob,total_cost
+Private forecast,1.220798,0.002624,46.926605,0.081250,54.873993
+Common AI,0.858029,0.127795,133.085913,0.295000,63.391916
+Split AI families,0.857167,0.022087,41.201507,0.058750,30.871343
+Diverse AI,0.843080,0.006122,26.610412,0.025000,26.693598
+Covariance-priced AI,0.946848,0.036213,58.327352,0.118750,40.730691
